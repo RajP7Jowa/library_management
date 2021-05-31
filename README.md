@@ -128,8 +128,15 @@ Open any Browser type on Url localhost/project_folder_name
 
 
 
+##login creddentials
+### admin
+	username :	admin
+	password :	1234
 
-
+### user
+	username :	user@user.com
+	password :	1234
+	
 
 
 
