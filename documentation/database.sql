@@ -42,7 +42,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `FullName`, `AdminEmail`, `UserName`, `Password`, `updationDate`) VALUES
-(1, 'AdminName', 'rajp7jowa@yopmail.com', 'admin', '202cb962ac59075b964b07152d234b70', '2021-05-25 22:44:01');
+(1, 'AdminName', 'rajp7jowa@yopmail.com', 'admin@admin.com', '202cb962ac59075b964b07152d234b70', '2021-05-25 22:44:01');
 
 -- --------------------------------------------------------
 
@@ -176,7 +176,7 @@ CREATE TABLE `tblstudents` (
 
 INSERT INTO `tblstudents` (`id`, `StudentId`, `FullName`, `EmailId`, `MobileNumber`, `Password`, `Status`, `RegDate`, `UpdationDate`) VALUES
 (11, '1', 'Prem Kumar', 'prem@gmail.com', '9370597451', '202cb962ac59075b964b07152d234b70', 1, '2020-01-07 18:07:29', '2021-05-25 18:16:42'),
-(12, '2', 'Rajkumar', 'user@gmail.com', '9876543210', '202cb962ac59075b964b07152d234b70', 1, '2020-01-07 18:08:45', '2021-05-25 22:42:59'),
+(12, '2', 'UserName', 'user@user.com', '9876543210', '202cb962ac59075b964b07152d234b70', 1, '2020-01-07 18:08:45', '2021-05-25 22:42:59'),
 (13, '3', 'Prem Kumar', 'premkumar@gmail.com', '9370597451', '202cb962ac59075b964b07152d234b70', 1, '2021-05-25 18:15:17', NULL);
 
 --
